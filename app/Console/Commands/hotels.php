@@ -51,4 +51,3 @@ class hotels extends Command
         return 0;
     }
 }
-/Users/whaese.ext/projects/other/wallace/api-hotel/app/Console/Commands/hotels.php
